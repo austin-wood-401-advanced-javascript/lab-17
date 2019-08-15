@@ -4,7 +4,7 @@
 
 ## Links and Resources
 * [submission PR](https://github.com/austin-wood-401-advanced-javascript/lab-17/pull/1)
-*[travis]([![Build Status](https://www.travis-ci.com/austin-wood-401-advanced-javascript/lab-17.svg?branch=master)](https://www.travis-ci.com/austin-wood-401-advanced-javascript/lab-17))
+* [travis]([![Build Status](https://www.travis-ci.com/austin-wood-401-advanced-javascript/lab-17.svg?branch=master)](https://www.travis-ci.com/austin-wood-401-advanced-javascript/lab-17))
 ### Modules
 * app.js
 * server.js
