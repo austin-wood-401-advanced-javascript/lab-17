@@ -1,5 +1,4 @@
-# LAB - 17
-## TCP Server
+# LAB - 17 TCP Server
 ## Author: Austin Wood
 
 ## Links and Resources
